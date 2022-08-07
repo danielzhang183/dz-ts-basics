@@ -1,0 +1,17 @@
+{
+  "name": "dz-ts-basics",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Dylan Zhang",
+  "license": "ISC",
+  "keywords": [],
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^0.25.2",
+    "eslint": "^8.21.0"
+  }
+}
